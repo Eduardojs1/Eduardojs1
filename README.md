@@ -35,4 +35,4 @@ Olá, Eu me chamo Eduardo Santos 🖖
 
 
  Apaixonado por tecnologia, pretendendo levar tudo que a envolve para o resto da minha vida!!. 
-- Lancerei meus projetos e artes UX em breve. :D
+- Adentrei ao Github recentemnte, logo serei ativo e vou lançar os meus projetos e artes UX em breve. :D
