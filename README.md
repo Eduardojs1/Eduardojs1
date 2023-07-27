@@ -3,7 +3,7 @@ Olá, Eu me chamo Eduardo Santos 🖖
 
 ### Sobre mim:
 - 👾 Bacharel em Sistemas da Informação
-- 🔭 Entusiasta em projestos, pesquisas e afins
+- 🔭 Entusiasta em projetos, pesquisas e afins
 - 💌 Anzietty@hotmail.com
 - 🌐 Portuguese and English only 
 - 🙋‍♂️ Pronouns: he/him 
