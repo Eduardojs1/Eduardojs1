@@ -20,6 +20,8 @@ Olá, Eu me chamo Eduardo Santos 🖖
 
 ![Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=Eduardojs1&show_icons=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardojs1)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Conhecimento nas Tecologias: 
 
 
