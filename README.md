@@ -2,9 +2,9 @@ Olá, Eu me chamo Eduardo Santos 🖖
 ---
 
 ### Sobre mim:
-- ⚛️ Bacharel em Sistemas da Informação
+- 👾 Bacharel em Sistemas da Informação
 - 🔭 Entusiasta em projestos, pesquisas e afins
-- 📫 Anzietty@hotmail.com
+- 💌 Anzietty@hotmail.com
 - 🔱 Pronomes: ele/dele 
 - 🌐 Portuguese and English only
 
