@@ -6,7 +6,7 @@ Olá, Eu me chamo Eduardo Santos 🖖
 - 🔭 Entusiasta em projestos, pesquisas e afins
 - 💌 Anzietty@hotmail.com
 - 🌐 Portuguese and English only 
-- 🔱 Pronouns: he/him 
+- 🙋‍♂️ Pronouns: he/him 
 
 
 ## Informações:
