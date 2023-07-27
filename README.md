@@ -1,4 +1,4 @@
-Olá, Eu me chamo Eduardo Santos 🖖
+Olá, Eu me chamo Eduardo Santos 🙋‍♂️
 ---
 
 ### Sobre mim:
