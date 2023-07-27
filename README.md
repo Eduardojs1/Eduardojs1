@@ -1,5 +1,5 @@
 <div align="center">
-<h2> Olá, Eu me chamo Eduardo Santos! <img src="https://media1.giphy.com/media/jdFm2bcWlj4EUVCpc0/giphy.gif?cid=ecf05e473b04r02kk4nstqpjdbnk59r7cdnq7tn40iqv8usw&ep=v1_gifs_related&rid=giphy.gif&ct=g"></h2>
+<h2> Olá, Eu me chamo Eduardo Santos! <img src="https://media1.giphy.com/media/jdFm2bcWlj4EUVCpc0/giphy.gif?cid=ecf05e473b04r02kk4nstqpjdbnk59r7cdnq7tn40iqv8usw&ep=v1_gifs_related&rid=giphy.gif&ct=g"" width="50"></h2>
 </div>
 
 ### Sobre mim:
