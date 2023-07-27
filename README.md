@@ -36,4 +36,4 @@ Olá, Eu me chamo Eduardo Santos 🙋‍♂️
 </div><br>
 
  
-### Adentrei ao Github recentemente, logo serei ativo e vou lançar os meus projetos e artes UX em breve :D.
+### Adentrei ao Github recentemente, logo serei ativo lançarei os meus codes e artes UX em breve :D.
