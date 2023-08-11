@@ -7,7 +7,7 @@
 - 🔭 Entusiasta em projetos, pesquisas e afins
 - 💌 Anzietty@hotmail.com
 - 🌐 Portuguese and English only 
-- 🙋‍♂️ Pronouns: he/him 
+
 
 
 ## Informações:
