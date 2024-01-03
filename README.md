@@ -37,4 +37,4 @@
 </div><br>
 
  
-### Adentrei ao Github recentemente, logo serei ativo lançando os meus codes e artes UX em breve :D.
+### Adentrei ao Github recentemente, logo serei ativo lançando os meus codes e artes UX em breve :D
