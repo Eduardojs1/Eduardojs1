@@ -5,7 +5,7 @@
 ### Sobre mim:
 - 👾 Bacharel em Sistemas da Informação
 - 🔭 Entusiasta em projetos, pesquisas e afins
-- 💌 Anzietty@hotmail.com
+- 💌 edujose2201@gmail.com
 - 🌐 Portuguese and English only 
 - 🙋‍♂️ Pronouns: he/him 
 
