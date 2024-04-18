@@ -25,7 +25,7 @@
 
 ![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardojs1&theme=tokyonight&hide_border=true&custom_title=Linguagens%20%Principais)
 
-## Conhecimento nas Tecologias: 
+## Conhecimento nas Tecnologias: 
 
 
 <div styLe= "display: inline_block"><br/>
