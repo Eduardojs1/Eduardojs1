@@ -28,7 +28,7 @@
 ## Conhecimento nas Tecnologias: 
 
 
-![Meu Portfólio.](https://edu-portfolio-puce.vercel.app/)
+[![Meu Portfólio.](https://edu-portfolio-puce.vercel.app/)
 
  
 ### Adentrei ao Github recentemente, logo serei ativo lançando os meus codes e artes UX em breve :D
