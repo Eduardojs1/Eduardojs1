@@ -12,7 +12,7 @@
 
 ## Informações:
 
- Apaixonado por tecnologia, pretendendo levar tudo que a envolve para o resto da minha vida.!!
+ Apaixonado por tecnologia, pretendendo levar tudo que a envolve para o resto da minha vida!!
  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/edus.p_/)
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-santos-4a6a35267/) 
