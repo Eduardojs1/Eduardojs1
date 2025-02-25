@@ -25,7 +25,7 @@
 
 ![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardojs1&theme=tokyonight&hide_border=true&custom_title=Linguagens%20%Principais)
 
-## Acesse o meu Site clicando abaixo: 
+## Conheça mais de mim acessando: 
 
 [![Meu Portfólio.](https://img.icons8.com/?size=100&id=a04gr8MLo013&format=png&color=000000)](https://edu-portfolio-puce.vercel.app/)
 
