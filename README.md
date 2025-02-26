@@ -27,6 +27,6 @@
 
 ## Conheça mais de mim acessando: 
 
-[![Meu Portfólio.](https://img.icons8.com/?size=100&id=a04gr8MLo013&format=png&color=000000)](https://edu-portfolio-puce.vercel.app/)
+[![Meu Portfólio.](https://img.icons8.com/?size=100&id=a04gr8MLo013&format=png&color=000000)](https://portfolio-edudev.vercel.app/)
 
 
